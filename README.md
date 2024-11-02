@@ -1,5 +1,6 @@
 # Pong-In-CSharp
 I just made this in a day for fun.
+If the code looks horrific, well I dunno.
 
 # Building
 Windows (x64) only, make sure the `PATH` variable has `C:/Windows/Microsoft.NET/Framework64/(any .NET version)`, okay?
