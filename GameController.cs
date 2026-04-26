@@ -36,6 +36,8 @@ public sealed class GameController
 	
 	public void Draw(Graphics g)
 	{
+    // I will never understand what I was trying to do
+    // a year ago.
 		// just for debugging.
 		//g.FillRectangle(Brushes.Gray, MainForm.width/2-16, 0, 16, 600);
 	
